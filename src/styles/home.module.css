@@ -1,0 +1,14 @@
+.hello {
+  color: rgb(255, 117, 117);
+}
+.hello h1:hover {
+  color: rgb(255, 0, 0);
+}
+.hello h2:hover {
+  color: blueviolet;
+}
+
+.btn {
+  background-color: #333;
+  color: #fff;
+}

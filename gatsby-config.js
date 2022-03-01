@@ -7,4 +7,8 @@
 module.exports = {
   /* Your site config here */
   plugins: [],
+  siteMetadata: {
+    title: "iel Gatsby Project",
+    description: "First Gatsby Project",
+  },
 }
